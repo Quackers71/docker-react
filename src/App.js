@@ -9,6 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />          
 	        <p>This is the Production container for docker-react.quackers.ninja</p>
+          <p>฿</p>
           <p>Controlled in ELBS</p>
           <a
             className="App-link"
