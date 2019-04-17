@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />          
 	        <p>This is the ฿ Production container for docker-react.quackers.ninja</p>
           <p>Controlled in ELBS</p>
-	    <p>Jared loves the Cattleprod</p>
+	    <p>Jared loves the Cattleprod on the Feature Branch</p>
           <a
             className="App-link"
             href="https://reactjs.org"
